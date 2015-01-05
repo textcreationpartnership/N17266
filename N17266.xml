@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:022295_0000_0FB7E66D271A1220"/>
-            <pb facs="tcp:022295_0001_0FB7E66EA2E44FE0"/>
+            <pb facs="unknown:022295_0000_0FB7E66D271A1220"/>
+            <pb facs="unknown:022295_0001_0FB7E66EA2E44FE0"/>
             <p>THE VIRGINIA ALMANACK <hi>For the</hi> YEAR <hi>of our</hi> LORD, 1790. BEING THE SECOND AFTER BISSEXTILE OR LEAP YEAR. <hi>Calculated to the Meridian of RICHMOND:</hi> AND WILL ANSWER ANY PART OF <hi>VIRGINIA</hi> OR <hi>NORTH-CAROLINA.</hi>
             </p>
             <p>WHEREIN ARE CONTAINED, The LUNATIONS, CONJUNCTIONS, and ECLIPSES, the Riſing and Setting of the SUN; Equation of Time; the Riſing, Sett<g ref="char:EOLhyphen"/>ing, Southing, Place, Age, and Phaſes of the MOON; true Places and Aſpects of the PLANETS; remarkable Days, Weather, &amp;c. together with a Variety of uſeful and entertain<g ref="char:EOLhyphen"/>ing Matter, calculated to improve the mind.</p>
@@ -124,7 +124,7 @@
       </front>
       <body>
          <div type="list_of_eclipses">
-            <pb facs="tcp:022295_0002_0FB7E6702296B898"/>
+            <pb facs="unknown:022295_0002_0FB7E6702296B898"/>
             <head>ECLIPSES, at RICHMOND, for the Year 1790.</head>
             <p>THERE are ſix eclipſes this year, <abbr>viz.</abbr> four of Sun, and two of the Moon.</p>
             <p>1ſt. Of the Sun, April the 14th, at 19 minutes paſt 7 in the morning, inviſible here.</p>
@@ -270,7 +270,7 @@
             </list>
          </div>
          <div type="list_of_zodiac_signs">
-            <pb facs="tcp:022295_0003_0FB7E67420331E48"/>
+            <pb facs="unknown:022295_0003_0FB7E67420331E48"/>
             <head>THE TWELVE SIGNS OF THE ZODIACK.</head>
             <p>♈ <hi>Aries,</hi> the Head &amp; Face.—♉ <hi>Taurus,</hi> the Neck.—♊ <hi>Gemini</hi> the Arms.—♋ <hi>Cancer,</hi> the Breaſt.—♌ <hi>Leo,</hi> the Heart.—♍ <hi>Virgo,</hi> the Bowels.—♎ <hi>Libra,</hi> the Reigns.—♏ <hi>Scorpio</hi> the Secrets.—♐ <hi>Sagitarius,</hi> the Thighs.—♑ <hi>Capricorn,</hi> t<gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
@@ -295,7 +295,7 @@
                   <desc>〈◊〉</desc>
                </gap> veſpertine or matutine ſtars.</p>
             <div type="month">
-               <pb facs="tcp:022295_0004_0FB7E6813AF621A8"/>
+               <pb facs="unknown:022295_0004_0FB7E6813AF621A8"/>
                <head>I. JANUARY, 31 Days.</head>
                <p>
                   <table>
@@ -847,7 +847,7 @@
                </p>
             </div>
             <div type="month">
-               <pb facs="tcp:022295_0005_0FB7E6822A5A9338"/>
+               <pb facs="unknown:022295_0005_0FB7E6822A5A9338"/>
                <head>II. FEBRUARY, 28 Days.</head>
                <p>
                   <table>
@@ -1337,7 +1337,7 @@
                   </gap> Star from that day until the end of the year.</p>
             </div>
             <div type="month">
-               <pb facs="tcp:022295_0006_0FB7E683939C14A0"/>
+               <pb facs="unknown:022295_0006_0FB7E683939C14A0"/>
                <head>III. MARCH, 31 DAYS.</head>
                <p>
                   <table>
@@ -1877,7 +1877,7 @@
                </p>
             </div>
             <div type="month">
-               <pb facs="tcp:022295_0007_0FB7E6863B2E5078"/>
+               <pb facs="unknown:022295_0007_0FB7E6863B2E5078"/>
                <head>IV. APRIL, 30 Days.</head>
                <p>
                   <table>
@@ -2402,7 +2402,7 @@
                </p>
             </div>
             <div type="month">
-               <pb facs="tcp:022295_0008_0FB7E688D8BF2CB0"/>
+               <pb facs="unknown:022295_0008_0FB7E688D8BF2CB0"/>
                <head>V. MAY, 31 DAYS.</head>
                <p>
                   <table>
@@ -2915,7 +2915,7 @@
                </p>
             </div>
             <div type="month">
-               <pb facs="tcp:022295_0009_0FB7E689B855F770"/>
+               <pb facs="unknown:022295_0009_0FB7E689B855F770"/>
                <head>VI. JUNE, 30 Days.</head>
                <p>
                   <table>
@@ -3417,7 +3417,7 @@
                </p>
             </div>
             <div type="month">
-               <pb facs="tcp:022295_0010_0FB7E68D51B101C8"/>
+               <pb facs="unknown:022295_0010_0FB7E68D51B101C8"/>
                <head>VII. JULY, 31 Days.</head>
                <p>
                   <table>
@@ -3935,7 +3935,7 @@
                </p>
             </div>
             <div type="month">
-               <pb facs="tcp:022295_0011_0FB7E68EEA239518"/>
+               <pb facs="unknown:022295_0011_0FB7E68EEA239518"/>
                <head>VIII. AUGUST, 31 Days.</head>
                <p>
                   <table>
@@ -4453,7 +4453,7 @@
                </p>
             </div>
             <div type="month">
-               <pb facs="tcp:022295_0012_0FB7E6974EAA2E50"/>
+               <pb facs="unknown:022295_0012_0FB7E6974EAA2E50"/>
                <head>IX. SEPTEMBER, 30 Days.</head>
                <p>
                   <table>
@@ -4952,7 +4952,7 @@
                </p>
             </div>
             <div type="month">
-               <pb facs="tcp:022295_0013_0FB7E69B85262D20"/>
+               <pb facs="unknown:022295_0013_0FB7E69B85262D20"/>
                <head>X. OCTOBER, 31 Days.</head>
                <p>
                   <table>
@@ -5505,7 +5505,7 @@
                </p>
             </div>
             <div type="month">
-               <pb facs="tcp:022295_0014_0FB7E69DEA260618"/>
+               <pb facs="unknown:022295_0014_0FB7E69DEA260618"/>
                <head>XI. NOVEMBER, 30 Days.</head>
                <p>
                   <table>
@@ -6007,7 +6007,7 @@
                </p>
             </div>
             <div type="month">
-               <pb facs="tcp:022295_0015_0FB7E6A01B066178"/>
+               <pb facs="unknown:022295_0015_0FB7E6A01B066178"/>
                <head>XII. DECEMBER, 31 Days.</head>
                <p>
                   <table>
@@ -6519,7 +6519,7 @@
             </div>
          </div>
          <div type="poem">
-            <pb facs="tcp:022295_0016_0FB7E6A196078AA8"/>
+            <pb facs="unknown:022295_0016_0FB7E6A196078AA8"/>
             <head>HOPE: An Ode.</head>
             <lg>
                <l>COME youthful muſe, my breaſt inſpire</l>
@@ -6557,7 +6557,7 @@
                <l>Anxious to prop the falling ſtate:</l>
                <l>Smiles at fatigue, ſerenely great;</l>
                <l>
-                  <pb facs="tcp:022295_0017_0FB7E6A6096E7D60"/>
+                  <pb facs="unknown:022295_0017_0FB7E6A6096E7D60"/>
 Retorts the dart of malice, truly brave,</l>
                <l>And boldly ſtems the force of faction's waves.</l>
                <l>The laws delay the lover's pain,</l>
@@ -6602,7 +6602,7 @@ Retorts the dart of malice, truly brave,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb facs="tcp:022295_0018_0FB7E6A6D0FCBD58"/>
+            <pb facs="unknown:022295_0018_0FB7E6A6D0FCBD58"/>
             <head>THE CLOSE OF THE YEAR.</head>
             <lg>
                <l>AS rapid rolls the year away,</l>
@@ -6630,7 +6630,7 @@ Retorts the dart of malice, truly brave,</l>
             <p>DISGUISE thyſelf as thou wilt, ſtill, Slavery! ſtill thou art a bitter draught; and though thou<g ref="char:EOLhyphen"/>ſands in all ages have been made to drink of thee, thou art no leſs bitter on that account. It is thou, Liberty, thrice ſweet and gracious goddeſs! whom all in public or in private worſhip: whoſe taſte is grateful, and ever will be ſo, till nature herſelf ſhall change. No tint of words can ſpot thy ſnowy mantle, or chymic power turn thy ſceptre into iron. With thee to ſmile upon him as he eats his cruſt, the ſwain is happier than his monarch, from whoſe court thou art exiled. Gracious Heaven! grant me but health, thou great beſtower of it; and give me but this fair goddeſs as my companion, and ſhower down thy mitres, if it ſeem good unto thy providence, upon thoſe heads which are aching for them.</p>
          </div>
          <div type="description_of_continent">
-            <pb facs="tcp:022295_0019_0FB7E6B77167CFD8"/>
+            <pb facs="unknown:022295_0019_0FB7E6B77167CFD8"/>
             <head>A GENERAL DESCRIPTION of AMERICA.</head>
             <p>THIS great Weſtern Continent, frequently denominated the New World, extends from the 80th Degree North to the 56th of South Latitude; and, where its breadth is known, from the 56th to the 136th Degree of Weſt Longitude from London, ſtretching from between 8 and 9000 Miles in length, and in its greateſt breadth 36<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -6647,7 +6647,7 @@ Retorts the dart of malice, truly brave,</l>
                <p>The northern part of this land is called the Province of Main, and belongs to the ſtate of Maſſachuſetts.</p>
             </div>
             <div type="description_of_state">
-               <pb facs="tcp:022295_0020_0FB7E6B8E0BE6688"/>
+               <pb facs="unknown:022295_0020_0FB7E6B8E0BE6688"/>
                <head>NEW-HAMPSHIRE</head>
                <p>Is a tract of land, originially carved out of Maſſachuſets. It lies on the ſouth ſide of the Piſcataqua, between the ſea and Connec<g ref="char:EOLhyphen"/>ticut river. Its form is nearly that of a ſugar-loaf or pyramid, the baſe of which ſtretches two hundred miles on Connecticut river. Is 180 miles in length, and 60 in breadth, contained, according to an enumeration in 1787, 102,000 inhabitants; ſituated between 4<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -6656,7 +6656,7 @@ Retorts the dart of malice, truly brave,</l>
             <div type="description_of_state">
                <head>MASSACHUSETTS</head>
                <p>Extends from the ocean on the eaſt, to the bounds of New-York on the weſt; it has Rhode-Iſland and Connecticut on the ſouth, and New-Hampſhire and Vermont on the north; is 450 miles in length, and 160 in breadth<g ref="char:punc">▪</g> contained, according to an enumeration in 1787. 360,000 inhabitants; ſituated between 42 and 45 degrees North Latitude, and 70 and 73 Weſt Longitude. Since the tran<g ref="char:EOLhyphen"/>quility of the ſtate was reſtored by the ſuppreſſion of the late in<g ref="char:EOLhyphen"/>ſurrection, the whole body of the people appear ſolicitous for the bleſſings of peace and good government. If any concluſion can be drawn from elections to the Federal Legiſlature, this ſtate has a decided majority in favor of the New Conſtitution. The great objects of Commerce, Agriculture, Manufactures, and the Fiſh<g ref="char:EOLhyphen"/>eries, appear greatly to engage the attention of Maſſachuſetts. Fa<g ref="char:EOLhyphen"/>brications of Cotton, coarſe Woollens, Linens, Duck, Iron, Wood, &amp;c. are proſecuting with ſucceſs—and by diminiſhing her imports, and increaſing her exports, ſhe is advancing to that rank and im<g ref="char:EOLhyphen"/>portance in the Union, which her extent of territory, her reſources, and the genius and enterpriſe of her citizens entitle her to—and although the colliſion of parties, at the moment of election, ſtrikes out a few ſparks of animoſity, yet the deciſion once made, the <hi>"calumet of peace"</hi> is ſmoked in love and friendſhip, <hi>"and like true republicans they acquieſce in the choice of the majority."</hi> The principal towns are, Boſton a large and populous city, ſituated on a peninſula, at the bottom of a large bay; it is elegant and well built, and deſervedly called the ſecond town in the United States: Newbury-Port, a flouriſhing ſea-port town; Falmouth, which was
-<pb facs="tcp:022295_0021_0FB7E6BBF6653F48"/>
+<pb facs="unknown:022295_0021_0FB7E6BBF6653F48"/>
 burnt by the Engliſh at the beginning of the late war, and riſing from its aſhes: and Charleſton, which was alſo laid in ruins, is now entirely re-built. A bridge covering Charles river, leads be<g ref="char:EOLhyphen"/>twixt Boſton and Charleſton, is more than 1300 feet in length, and the nobleſt ſtructure in America. The Univerſity at Cam<g ref="char:EOLhyphen"/>bridge, is the firſt literary inſtitution on the Continent. Its build<g ref="char:EOLhyphen"/>ings are large and elegant—its literary and philoſophical apparatus are the moſt complete of any in America.</p>
             </div>
             <div type="description_of_state">
@@ -6672,7 +6672,7 @@ burnt by the Engliſh at the beginning of the late war, and riſing from its aſ
                      <desc>〈◊〉</desc>
                   </gap> Federal Elections—her plans for promoting Ma<g ref="char:EOLhyphen"/>nufactures, and the increaſe of her exports. The principal towns are, New-York, ſituated on New-York iſland, at the confluence of the Eaſt and North rivers, an elegant and populous city, with an excellent harbour, now the reſidence of the Congreſs of the United States. Hudſon, lying on Hudſon's river, navigable for ſhips of almoſt any ſize, about 130 miles from New-York, and Albany a city on the North river, about thirty miles above Hudſon, built by the Dutch, and carries on a great for trade.</p>
                <p>
-                  <pb facs="tcp:022295_0022_0FB7E6BD61927F68"/>
+                  <pb facs="unknown:022295_0022_0FB7E6BD61927F68"/>
 Columbia College in the city of New-York is well endowed and furniſhed with able Profeſſors; and the New-York Chamber of Commerce is a very uſeful Mercantile Society, inſtituted for the purpoſes of promoting and encouraging Commerce, ſupport<g ref="char:EOLhyphen"/>ing Induſtry, and adjuſting diſputes relative to Trade and Naviga<g ref="char:EOLhyphen"/>tion. They meet once in every month, to tranſact ſuch buſineſs as may come before them, and eſtabliſh rules for the order and good government of the Society. There is alſo a Marine Society, for the purpoſes of improving Maritime knowledge, and for re<g ref="char:EOLhyphen"/>lieving the Wives and Children of deceaſed Maſters of Veſſels, not leſs worthy of imitation, that meet quarterly.</p>
             </div>
             <div type="description_of_state">
@@ -6684,7 +6684,7 @@ Columbia College in the city of New-York is well endowed and furniſhed with abl
                <p>Extends from the Delaware on the eaſt, Maryland on the ſouth, New York on the north, and Virginia and Lake Eri on the weſt; is 288 miles in length, and 156 in breadth, contained by a cenſus in 1787, 360,000 inhabitants; ſituated between 39 and 44 degrees North Latitude, and 75 and 80 Weſt Longitude. This extenſive and truly reſpectable ſtate is making great proficiency in her Ma<g ref="char:EOLhyphen"/>nufactures. Agriculture, Arts and Commerce. Her attachment to the New Conſtitution is unequivocal, and with a conſiſtency highly honorary to her national character ſhe has lately made an effort (which though defeated for a time, will undoubtedly be ſucceſsful) to conform her ſtate conſtitution to that of the Union. The principal towns are Philadelphia the largeſt and moſt re<g ref="char:EOLhyphen"/>gular city in America ſituate on the river Delaware, enjoying an extenſive trade, the Univerſity in <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> city, is well endowed with
-<pb facs="tcp:022295_0023_0FB7E6C96A0FE608"/>
+<pb facs="unknown:022295_0023_0FB7E6C96A0FE608"/>
 able Profeſſors, as is alſo the Proteſtant Epiſcopal Academy; and here the Philoſophical Society meet in the houſe of their Preſident, the immortal <hi>Franklin.</hi> Carliſle, an inland town, where a flouriſh-ſeminary of learning, called Dickenſon College, has been lately erected; Reading and York, are flouriſhing boroughs, as are alſo Germantown and Briſtol; Lancaſter, another borough, is the largeſt inland town in the United States, where is founded a Ger<g ref="char:EOLhyphen"/>man College called Franklin, after its principal benefactor; and Pittſburgh ſituated on the confluence of the rivers Alleghany and Monongahela, increaſes rapidly, and bids fair to be the Emporium of the Weſtern Country.</p>
             </div>
             <div type="description_of_state">
@@ -6698,7 +6698,7 @@ able Profeſſors, as is alſo the Proteſtant Epiſcopal Academy; and here the 
                   </gap> 253,630 inhabitants; ſituated between 37 and 40 North Latitude and 75 and 79 Weſt Longitude. From its favorable ſituation in the Union, this ſtate bids fair for proſpe<g ref="char:EOLhyphen"/>rity, wealth, and eminence. Warmly attached to the New Con<g ref="char:EOLhyphen"/>ſtitution, and enjoying a central ſituation. The principal towns are, Baltimore, which lies upon an arm of the Cheſapeake, is a flouriſhing ſea-port town, which riſes in wealth and ſize with amaz<g ref="char:EOLhyphen"/>ing rapidity; Annapolis, the ſeat of government, an elegant town on the river Severn; St. Mary's, which has nothing remarkable but having once been the capital of the Province; Frederick<g ref="char:EOLhyphen"/>town, a fine flouriſhing inland town; and George-town, ſituate at the head of navigation on the river Patowmack ſeems to flouriſh in commercial conſequence. They have erected a College upon the eaſtern ſhore, called Waſhington College, in honor of that illuſtrious character. There is alſo a College to be erected upon the weſtern ſhore.</p>
             </div>
             <div type="description_of_state">
-               <pb facs="tcp:022295_0024_0FB7E6CF481703B0"/>
+               <pb facs="unknown:022295_0024_0FB7E6CF481703B0"/>
                <head>VIRGINIA</head>
                <p>Is bounded by the Atlantic on the eaſt, by Maryland, Pennſyl<g ref="char:EOLhyphen"/>vania, and the Ohio, on the north; by the Miſſiſippi and Ohio on the weſt, and by North Carolina on the ſouth; is 758 miles in length, and 2<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -6709,7 +6709,7 @@ able Profeſſors, as is alſo the Proteſtant Epiſcopal Academy; and here the 
                   </gap> from its mouth. Nanſemond and Chickahominy affords water for ſmall veſſels, ſe<g ref="char:EOLhyphen"/>veral miles into the country. Elizabeth river affords an excellent harbour and large enough for three hundred ſhips. At Norfolk it has eighteen feet water at common <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ood tide. The Roanoke runs
-<pb facs="tcp:022295_0025_0FB7E6D01991AF50"/>
+<pb facs="unknown:022295_0025_0FB7E6D01991AF50"/>
 through part of Virginia, and is navigable for boats. On the weſt of the Allegany mountains are the great and little Kanawa, which riſe in the mountains, and run north-weſt into the Ohio.—The Monongahela is one principal branch of the Ohio. The ſource of this river is ſeparated from the Patowmac by the Allegany Ridge. The diſtance is about forty miles.—The river Allegany is the other principal branch of the Ohio. The head of the river is but fifteen miles diſtant from Preſque Iſſe on Lake Erie. The rivers Cum<g ref="char:EOLhyphen"/>berland, Cherooke, and Kentucky, waters the weſtern part of Vir<g ref="char:EOLhyphen"/>ginia, furniſhing navigation for batteaux into the heart of the coun<g ref="char:EOLhyphen"/>try. Virginia is deſervedly confeſſed without all manner of doubt, the moſt convenient country in the world for navigation.</p>
                <p>⁂ <hi>In line</hi> 26, <hi>of the preceding page, for Frederickſburg, another town on the</hi> 'PATOWMAC,' <hi>read on the</hi> 'RAPPAHANNOCK.'</p>
             </div>
@@ -6722,7 +6722,7 @@ through part of Virginia, and is navigable for boats. On the weſt of the Allega
                <p>Is bounded by South-Carolina on the north, by the Atlantic on the eaſt; by Eaſt and Weſt Florida on the ſouth, and by Miſſiſipp<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> on the weſt; is 600 miles in length, and 250 in breadth; contain<g ref="char:EOLhyphen"/>ed, according to a cenſus in 1787, 98,000 inhabitants; ſituated be<g ref="char:EOLhyphen"/>tween 30 and 33 degrees North Lat. and 76 and 90 Weſt Longi<g ref="char:EOLhyphen"/>tude. This ſtate has completed her Federal Character by con<g ref="char:EOLhyphen"/>forming her ſtate conſtitution to that of the Union—and being the youngeſt branch of the Family, and a frontier, ſhe will doubt<g ref="char:EOLhyphen"/>leſs experience the ſupporting and protecting arm of the Federal Government. The principal towns are, Savannah, the capital, a fine commercial town on the river of the ſame name; Sunbury, a ſea-port, very well ſituated for trade; and Auguſta, ſituated at the
-<pb facs="tcp:022295_0026_0FB7E6D358FC5108"/>
+<pb facs="unknown:022295_0026_0FB7E6D358FC5108"/>
 head of navigation on the river Savannah, one hundred and thirty four miles from the ſea, is the ſeat of government.</p>
             </div>
             <div type="description_of_state">
@@ -6735,7 +6735,7 @@ head of navigation on the river Savannah, one hundred and thirty four miles from
             </div>
          </div>
          <div type="list_of_legislators">
-            <pb facs="tcp:022295_0027_0FB7E6D5364372F0"/>
+            <pb facs="unknown:022295_0027_0FB7E6D5364372F0"/>
             <head>Liſt of the GENERAL LEGISLATURE. GEORGE WASHINGTON, ESQUIRE, Preſident of the United States. JOHN ADAMS, ESQUIRE, Vice-Preſident of the United States. SENATORS of the United States, claſſed by Lot on the 15th of May, 1789, agreeably to the Conſtitution.</head>
             <list>
                <label>NEW-HAMPSHIRE,</label>
@@ -6863,7 +6863,7 @@ head of navigation on the river Savannah, one hundred and thirty four miles from
                </item>
             </list>
             <list>
-               <pb facs="tcp:022295_0028_0FB7E6DC4ECBDB68"/>
+               <pb facs="unknown:022295_0028_0FB7E6DC4ECBDB68"/>
                <label>CONNECTICUT,</label>
                <item>
                   <list>
@@ -6965,7 +6965,7 @@ head of navigation on the river Savannah, one hundred and thirty four miles from
                </item>
             </list>
             <list>
-               <pb facs="tcp:022295_0029_0FB7E6DF32139480"/>
+               <pb facs="unknown:022295_0029_0FB7E6DF32139480"/>
                <label>GEORGIA,</label>
                <item>
                   <list>
@@ -7030,7 +7030,7 @@ head of navigation on the river Savannah, one hundred and thirty four miles from
                   <item>On Molaſſes, per gallon, 2½</item>
                   <item>On Madeira Wine, per gall. 13</item>
                   <item>
-                     <pb facs="tcp:022295_0030_0FB7E6E2B735E170"/>
+                     <pb facs="unknown:022295_0030_0FB7E6E2B735E170"/>
 On all other Wines per gal. 10</item>
                   <item>On every gallon of beer, ale or porter, in caſks, 5</item>
                   <item>On all cyder, beer, ale, or porter in bottles, per doz. 20</item>
@@ -7090,7 +7090,7 @@ On all other Wines per gal. 10</item>
                </list>
             </p>
             <p>
-               <pb facs="tcp:022295_0031_0FB7E6E5E8B56AD0"/>
+               <pb facs="unknown:022295_0031_0FB7E6E5E8B56AD0"/>
 On all goods, wares, and merchandiſe, other than teas imported from China or India, in ſhips not built in the United States, and not wholly the property of a citizen or citizens thereof, nor in veſſels built in foreign countries, and on the 16th of May laſt wholly the property of a citizen or citizens of the United States, and ſo continuing until the time of importation, 12½ <hi>per centum, ad valorem.</hi>
             </p>
             <list>
@@ -7144,7 +7144,7 @@ On all goods, wares, and merchandiſe, other than teas imported from China or In
             <p>
                <hi>And be it further enacted, by the authority aforeſaid,</hi> That from and after the firſt day of December, which ſhall be in the year one thouſand ſeven hundred and ninety, there ſhall be laid a duty on every one hundred and twelve pounds weight of hemp im<g ref="char:EOLhyphen"/>ported as aforeſaid, of ſixty cents; and on cotton per lb. three cents.</p>
             <p>
-               <pb facs="tcp:022295_0032_0FB7E6E9425394C0"/>
+               <pb facs="unknown:022295_0032_0FB7E6E9425394C0"/>
                <hi>And be it enacted, by the authority aforeſaid,</hi> That all duties paid, or ſecured to be paid, upon any of the goods, wares, and mer<g ref="char:EOLhyphen"/>chandiſe, as aforeſaid, except on diſtilled ſpirits, other than bran<g ref="char:EOLhyphen"/>dy and geneva, ſhall be returned or diſcharged upon ſuch of the ſaid goods, wares or merchandiſe as ſhall within twelve months after pa<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ment made, or ſecurity given, be exported to any coun<g ref="char:EOLhyphen"/>try without the limits of the United States, as ſettled by the late treaty of peace<g ref="char:punc">▪</g> except one per centum on the amount of the ſaid duties, in conſideration of the expence which ſhall have accrued by the entry and ſafe keeping thereof.</p>
@@ -7180,7 +7180,7 @@ On all goods, wares, and merchandiſe, other than teas imported from China or In
                   <hi>Newbury-Port</hi>—Stephen Croſs, <hi>Collector;</hi> Jonathan Titcomb, <hi>Naval-Officer;</hi> Michael Hodge, <hi>Surveyor.</hi>
                </item>
                <item>
-                  <pb facs="tcp:022295_0033_0FB7E6EDDC70AF78"/>
+                  <pb facs="unknown:022295_0033_0FB7E6EDDC70AF78"/>
                   <hi>Glouceſter</hi>—Epes Sargent, <hi>Collector;</hi> Sam. Whitemore, <hi>Surveyor.</hi>
                </item>
                <item>
@@ -7302,7 +7302,7 @@ On all goods, wares, and merchandiſe, other than teas imported from China or In
                </item>
             </list>
             <list>
-               <pb facs="tcp:022295_0034_0FB7E6EEE01C0C08"/>
+               <pb facs="unknown:022295_0034_0FB7E6EEE01C0C08"/>
                <head>For the ſtate of DELAWARE.</head>
                <item>
                   <hi>Wilmington</hi>—Geo. Buſh, <hi>Collector.</hi>
@@ -7429,7 +7429,7 @@ On all goods, wares, and merchandiſe, other than teas imported from China or In
             </list>
          </div>
          <div type="list_of_names">
-            <pb facs="tcp:022295_0035_0FB7E6F394AA1D88"/>
+            <pb facs="unknown:022295_0035_0FB7E6F394AA1D88"/>
             <head>COMMON WEALTH of VIRGINIA,</head>
             <p>Governor or Chief Magiſtrate, His Excellency BEVERLEY RANDOLPH.</p>
             <list>
@@ -7554,7 +7554,7 @@ On all goods, wares, and merchandiſe, other than teas imported from China or In
                   </row>
                </table>
                <table>
-                  <pb facs="tcp:022295_0036_0FB7E6F6B0BBE808"/>
+                  <pb facs="unknown:022295_0036_0FB7E6F6B0BBE808"/>
                   <head>CLASS No. IV.</head>
                   <row>
                      <cell>Accomack and Northampton,</cell>
@@ -7828,7 +7828,7 @@ On all goods, wares, and merchandiſe, other than teas imported from China or In
                      <cell>Thomas Tinſley,</cell>
                      <cell>John Winſton.</cell>
                   </row>
-                  <pb facs="tcp:022295_0037_0FB7E6F829E7FB48"/>
+                  <pb facs="unknown:022295_0037_0FB7E6F829E7FB48"/>
                   <row>
                      <cell>
                         <hi>Harriſon,</hi>
@@ -8170,7 +8170,7 @@ On all goods, wares, and merchandiſe, other than teas imported from China or In
                      <cell>Edwin Gray,</cell>
                      <cell>James Wilkinſon.</cell>
                   </row>
-                  <pb facs="tcp:022295_0038_0FB7E6FD66D0E7A8"/>
+                  <pb facs="unknown:022295_0038_0FB7E6FD66D0E7A8"/>
                   <row>
                      <cell>
                         <hi>Spotſylvania,</hi>
@@ -8277,7 +8277,7 @@ On all goods, wares, and merchandiſe, other than teas imported from China or In
                </p>
                <p>The counties of Henrico, Hanover, Cheſterfield, Goochland, and Powhatan, compoſe one Diſtrict, and a Court ſhall be holden for the ſame at the capitol in the city of Richmond, on the 1ſt of April, and the 1ſt of September, in every year.</p>
                <p>
-                  <pb facs="tcp:022295_0039_0FB7E6FEDB1716D0"/>
+                  <pb facs="unknown:022295_0039_0FB7E6FEDB1716D0"/>
 James-City, Charles-City, New-Kent, Surry, Glouceſter, York, Warwick, and Elizabeth-City, compoſe another Diſtrict, and a Court ſhall be holden for the ſame, at the city of Williams<g ref="char:EOLhyphen"/>burg, in the former capitol, on the 29th of April, and 29th of September, in every year.</p>
                <p>Richmond, Weſtmoreland, Lancaſter, and Northumberland, compoſe another Diſtrict, and a Court ſhall be holden for the ſame, at Northumberland court-houſe, on the 1ſt of April, and the firſt of September, in every year.</p>
                <p>Eſſex, Middleſex, King &amp; Queen, and King William, com<g ref="char:EOLhyphen"/>poſe another Diſtrict, and a Court ſhall be holden for the ſame at King &amp; Queen court-houſe, on the 15th of April, and 15th of September, in every year.</p>
@@ -8291,7 +8291,7 @@ James-City, Charles-City, New-Kent, Surry, Glouceſter, York, Warwick, and Eliza
                <p>Norfolk, Iſle of Wight, Princeſs Anne, Nanſemond, and Southampton, compoſe another Diſtrict, and a Court ſhall be holden for the ſame at Suffolk, on the 12th of May, and 12th of October, in every year.</p>
                <p>Prince George Suſſex, Dinwiddie, and Amelia, compoſe ano<g ref="char:EOLhyphen"/>ther Diſtrict, and a Court ſhall be holden for the ſame at Peters<g ref="char:EOLhyphen"/>burg, on the 15th of April, and 15th of September, in every year.</p>
                <p>
-                  <pb facs="tcp:022295_0040_0FB7E7079FE96F00"/>
+                  <pb facs="unknown:022295_0040_0FB7E7079FE96F00"/>
 Brunſwick. Greenſville, Lunenburg, and Mecklenburg com<g ref="char:EOLhyphen"/>poſe another Diſtrict, and a Court ſhall be holden for the ſame at Brunſwick court-houſe, on the 29th of April, and 29th of Sep<g ref="char:EOLhyphen"/>tember, in every year.</p>
                <p>Prince Edward, Buckingham, Charlotte, Halifax, and Cum<g ref="char:EOLhyphen"/>berland, compoſe another Diſtrict and a Court ſhall be holden for the ſame at Prince Edward court-houſe, on the 1ſt of April, and 1ſt of September, in every year.</p>
                <p>Bedford, Campbell, Franklin, Pittſylvania and Henry, com<g ref="char:EOLhyphen"/>poſe another Diſtrict and a Court ſhall be holden for the ſame at New-London, on the 15th of May, and 12th of October, in every year.</p>
@@ -8326,7 +8326,7 @@ Brunſwick. Greenſville, Lunenburg, and Mecklenburg com<g ref="char:EOLhyphen"/
                   <desc>•••</desc>
                </gap>vannah.</p>
             <p>
-               <pb facs="tcp:022295_0041_0FB7E70BE46F87A8"/>
+               <pb facs="unknown:022295_0041_0FB7E70BE46F87A8"/>
                <hi>Second Thurſday,</hi> Princeſs Anne, Warwick, Albemarle, Caroline, New Kent, Southampton, Lunenburg, and Cheſterfield.</p>
             <p>
                <hi>Third Thurſday,</hi> Suſſex, Norfolk, Powhatan, and Charles City.</p>
@@ -8353,7 +8353,7 @@ Brunſwick. Greenſville, Lunenburg, and Mecklenburg com<g ref="char:EOLhyphen"/
             <p>A judge, ſuſpected of bribery, checked his clerk, for having a <hi>dirty face.</hi> I plead guilty, my lord, ſaid the clerk, <hi>but my hands are clean.</hi>
             </p>
             <p>
-               <pb facs="tcp:022295_0042_0FB7E70CEB08BD28"/>
+               <pb facs="unknown:022295_0042_0FB7E70CEB08BD28"/>
 The following example of laudable pride in a ſoldier, was men<g ref="char:EOLhyphen"/>tioned in a letter from an officer of the American army, written ſoon after the battle of Monmouth.—A ſoldier in that memorable action, fell into the hands of the Engliſh cavalry, when one of them knocked him down, and attempted to pierce him through the back with his ſword,—<hi>"Strike me in the heart,"</hi> ſaid he, turning briſkly about <hi>"that my friends may not bluſh for me after my death."</hi>
             </p>
             <p>An honeſt clergyman in the country was reproving a married couple for their frequent diſſenſions, which were very unbecoming both in the eye of God and man, ſeeing that you are both <hi>one; Both one!</hi> cried the huſband, <hi>were you to come by our door ſome<g ref="char:EOLhyphen"/>times when we quarrel, you would ſwear we were twenty.</hi>
@@ -8364,7 +8364,7 @@ The following example of laudable pride in a ſoldier, was men<g ref="char:EOLhy
             <p>Two gentlemen having a diſpute about religion, one ſaid to the other, I wonder, ſir, you ſhould talk of religion, when I'll hold you ten guineas you can't ſay the <hi>Lord's Prayer.</hi> Done ſaid the other. The money was depoſited and the gentleman began with, <hi>I believe in God,</hi> and ſo went cleverly through the creed: <hi>Well</hi> ſaid the other, <hi>I own I have loſt; I did not think he could have done it.</hi>
             </p>
             <p>Dr. Sheridan<g ref="char:punc">▪</g> the celebrated friend of Swift, had a cuſtom of ringing his ſcholars to prayers in his ſchool room, at a certain hour every day. The boys were one day very devoutly at prayers ex<g ref="char:EOLhyphen"/>cept one, who was ſtifling a laugh as well as he could; which aroſe from ſeeing a rat deſcending from the bell-rope into the room. The poor boy could hold out no longer, but burſt into an immo<g ref="char:EOLhyphen"/>derate fit of laughter, which ſet the others agoing when he pointed to the cauſe. Sheridan was ſo provoked, that he declared he would whip them all if the principal culprit was not pointed out to him;
-<pb facs="tcp:022295_0043_0FB7E7109DDDE3A8"/>
+<pb facs="unknown:022295_0043_0FB7E7109DDDE3A8"/>
 which was immediately done. The poor pupil of Momus was immediately hoiſted, and his poſteriors laid bare to the rod, when the witty ſchoolmaſter told him, if he ſaid any thing tolerable on the occaſion, as he looked on him as the greateſt dunce in his ſchool, he would forgv<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap> him. The trembling culprit, with very little heſitation addreſſed his maſter with the following beautiful distich:
@@ -8505,7 +8505,7 @@ Sheridan inſtantly dropped the rod, and inſtead of a whipping gave him half a 
             </p>
          </div>
          <div type="recipes">
-            <pb facs="tcp:022295_0044_0FB7E7124165D960"/>
+            <pb facs="unknown:022295_0044_0FB7E7124165D960"/>
             <head>RECIPES.</head>
             <div type="recipe">
                <head>FOR A COLD IN THE HEAD.</head>
@@ -8530,14 +8530,14 @@ Sheridan inſtantly dropped the rod, and inſtead of a whipping gave him half a 
             </div>
          </div>
          <div type="first_part_of_letter">
-            <pb facs="tcp:022295_0045_0FB7E7145077C648"/>
+            <pb facs="unknown:022295_0045_0FB7E7145077C648"/>
             <head>Sir WALTER RAWLEIGH's Letter to his Wife, after his condemnation.</head>
             <p>"YOU ſhall receive, my dear wife, my laſt words in theſe my laſt lines. My love I ſend you that you may keep when I am dead; and my counſel, that you may remember when I am no more. I would not with my will, preſent you ſorrows, dear Beſs; let them go to the grave with me, and be buried in the duſt; and ſeeing that it is not the will of God that I ſhall ſee you any more, bear my deſtruction patiently; and with an heart like yourſelf. Firſt I ſend you all the thanks, which my heart can conceive, or my words expreſs, for your many travels and cares for me; which though they have not taken effect, as you wiſhed, yet my debt to you is not the leſs; but pay it I never ſhall in the world. Secondly, I beſeech you, for the love you <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> me living, that you do not hide yourſelf many days; but by your travels ſeek to help my miſerable fortunes, and the right of your poor child; your mourn<g ref="char:EOLhyphen"/>ing cannot avail me who am but duſt. Thirdly, you ſhall underſtand that my lands were conveyed <hi>(bonafide)</hi> to my child; the writings were drawn at midſummer was a twelve month, as divers can witneſs; and I truſt, my blood will quench their malice, who deſired my ſlaughter, that they will not ſeek to kill you and yours with extreme poverty. To what friend to direct you, I know not: for all mine have left me in the true time of trial. Moſt ſorry am I, that being ſurpriſed by death, I can leave you no better eſtate; God hath prevented all my determinations, that great God, which worketh all in all. If you can live free from want, care for no more; for the reſt is but a vanity. Love God, and begin betimes; in him ſhall you find true, everlaſting and endleſs comfort; when you have travelled, and wearied yourſelf with all ſorts of wordly cogitations, you ſhall ſit down with ſorrow in the end. Teach your ſon alſo to ſerve and fear God, whilſt he is young, that</p>
          </div>
          <div type="table_of_money_values">
-            <pb facs="tcp:022295_0046_0FB7E71A51687F48"/>
+            <pb facs="unknown:022295_0046_0FB7E71A51687F48"/>
             <p>
                <table>
                   <head>A TABLE ſhewing the value of CENTS in VIRGINIA CURRENGY, from one to one-hundred.</head>
@@ -8859,7 +8859,7 @@ Sheridan inſtantly dropped the rod, and inſtead of a whipping gave him half a 
             </p>
          </div>
          <div type="continuation_of_letter">
-            <pb facs="tcp:022295_0047_0FB7E71D46CF54F8"/>
+            <pb facs="unknown:022295_0047_0FB7E71D46CF54F8"/>
             <p>the fear of God may grow up in him; then will God be an huſband to you, and a father to him; an huſband and a father that ſhall never be taken from you. Dear wife, I beſeech you for my ſoul's ſake, <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ay all poor men, when I am dead, no doubt you will be much ſought unto; for the world thinks I was very rich: Have a care of the fair pretences of men; for no great<g ref="char:EOLhyphen"/>er miſery can befal you in this life, than to become a prey unto the world, and after to be deſpiſed. As for me, I am no more yours, nor you mine; death hath cut us aſunder; and God hath divided me from the world, and you from me. Remember your poor child, for his father's ſake, who loved you in his happieſt eſ<g ref="char:EOLhyphen"/>tate. I ſued for my life, but (God knows) it was for you and yours, that I deſired it; for know it, my dear wife, your child, is the child of a true man, who in his own reſpect deſpiſeth death, and his miſhapen and ug<g ref="char:EOLhyphen"/>ly forms. I cannot write much; God knows, how hardly I ſteal this time, when all are aſleep: And it is alſo time for me to ſeparate my thoughts from the world. Beg my dead body, which living was denied you; and either lay it in Sherburne, or Exeter Church, by my father and mother. I can ſay no more; time and death call me away. The everlaſting God, powerful, infi<g ref="char:EOLhyphen"/>nite and inſcrutable, God Almighty, who is goodneſs itſelf, the true light and life, keep you and yours, and have mercy upon me, and forgive my perſecutors, and falſe accuſers; and ſend us to meet in his glorious King<g ref="char:EOLhyphen"/>dom. My dear wife, farewell; bleſs my boy, pray for me: and let my true God hold you both in his arms.</p>
@@ -8877,7 +8877,7 @@ Sheridan inſtantly dropped the rod, and inſtead of a whipping gave him half a 
             </list>
          </div>
          <div type="anecdote">
-            <pb facs="tcp:022295_0048_0FB7E71E15670100"/>
+            <pb facs="unknown:022295_0048_0FB7E71E15670100"/>
             <head>ANECDOTE.</head>
             <p>A very pious Gentleman, but rather worldly, who lives not many miles from Boſton, made it his conſtant practice to call up his family before day, in order that they might attend prayers and be ready for their labour in good ſeaſon: One morning having muſtered his family rather earlier than common, he commenced family duties by prayer, during which he returned thanks to the Lord, that they were brought to ſee the light of <hi>another day:</hi> an old negro ſtanding by, cried out, <hi>"Top, top, vate a bit, no day yet, maſſa, ſartin, no day yet."</hi>
             </p>
